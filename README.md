@@ -1,4 +1,4 @@
-### ¡Hola! Soy Nicolás 👋
+### ¡Hola! Soy Nikolas 👋
 
 - 🎓 Estudiante de Ingeniería en Sistemas Computacionales en la UACA (Costa Rica)
 - 💼 Técnico en Telecomunicaciones y Redes en Antares WiFi
